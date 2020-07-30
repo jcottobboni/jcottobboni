@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/jcottobboni/jcottobboni/blob/master/logo.PNG" alt="jcottobboni logo" width=350px height=465px/>
+<img align="right" src="https://github.com/jcottobboni/jcottobboni/blob/master/logo.png" alt="jcottobboni logo" width=350px height=465px/>
 
 ### Hi, I'm João Carlos Ottobboni 👋
 
