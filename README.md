@@ -17,7 +17,7 @@ I'm a web developer specializing in Ruby on Rails. I make things from scratch, c
   <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcottobboni&hide=html&layout=compact&theme=default" /></td>
-        <td><img width="485px" align="left" src="https://github-readme-stats.vercel.app/api?username=jcottobboni&theme=default" /></td>
+        <td><img width="470px" align="left" src="https://github-readme-stats.vercel.app/api?username=jcottobboni&theme=default" /></td>
     </tr>   
   </table>
 </center>
