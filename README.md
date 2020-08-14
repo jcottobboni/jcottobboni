@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/jcottobboni/jcottobboni/blob/master/logo.png" alt="jcottobboni logo" width=350px height=465px/>
+<img align="right" src="https://github.com/jcottobboni/jcottobboni/blob/master/logo.png" alt="jcottobboni logo" width=209px height=241px/>
 
 ## Hi, I'm João Carlos Ottobboni <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 I'm a web developer specializing in Ruby on Rails. I make things from scratch, contribute to open source, and write about development in an accessible and intuitive way.
@@ -11,7 +11,7 @@ I'm a web developer specializing in Ruby on Rails. I make things from scratch, c
 #### How to reach me 🌎:
 - 📨 Send me an E-mail: jcottobboni@gmail.com
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/jcottobboni/">LinkedIn</a>
-- 🌐 Personal WebSite <a href="https://joaocarlos.dev">joaocarlos.dev</a> -->
+- 🌐 Personal WebSite <a href="https://joaocarlos.dev">joaocarlos.dev</a>
 
 <center>
   <table>
