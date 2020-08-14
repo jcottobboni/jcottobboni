@@ -9,3 +9,13 @@ I'm a web developer specializing in Ruby on Rails. I make things from scratch, c
 -  Ask me about Ruby on Rails development and Ansible.
 -  How to reach me: jcottobboni@gmail.com
 -  Fun fact: I love to study and learn more about medieval culture. I also like to build things, currently trying to be a blacksmith apprentice.
+
+
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcottobboni&hide=html&layout=compact&theme=default" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=jcottobboni&theme=default" /></td>
+    </tr>   
+  </table>
+</center>
