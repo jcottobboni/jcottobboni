@@ -1,7 +1,6 @@
 <img align="right" src="https://github.com/jcottobboni/jcottobboni/blob/master/logo.png" alt="jcottobboni logo" width=350px height=465px/>
 
-### Hi, I'm João Carlos Ottobboni 👋
-
+## Hi, I'm João Carlos Ottobboni <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 I'm a web developer specializing in Ruby on Rails. I make things from scratch, contribute to open source, and write about development in an accessible and intuitive way.
 
 -  I’m currently working on Siedos.
