@@ -6,9 +6,12 @@ I'm a web developer specializing in Ruby on Rails. I make things from scratch, c
 -  I’m currently working on Siedos.
 -  I’m currently learning about Ansible and DevOps
 -  Ask me about Ruby on Rails development and Ansible.
--  How to reach me: jcottobboni@gmail.com
 -  Fun fact: I love to study and learn more about medieval culture. I also like to build things, currently trying to be a blacksmith apprentice.
 
+#### How to reach me 🌎:
+- 📨 Send me an E-mail: jcottobboni@gmail.com
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/jcottobboni/">LinkedIn</a>
+- 🌐 Personal WebSite <a href="https://joaocarlos.dev">joaocarlos.dev</a> -->
 
 <center>
   <table>
