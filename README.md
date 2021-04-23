@@ -4,6 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/jcottobboni)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://joaocarlos.dev)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/joaocarlos.dev/)
+
 I'm a web developer specializing in Ruby on Rails. I make things from scratch, contribute to open source, and write about development in an accessible and intuitive way.
 
 -  I’m currently working on Siedos.
