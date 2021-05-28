@@ -16,7 +16,9 @@ I'm a web developer specializing in Ruby on Rails. I make things from scratch, c
 - 📨 Send me an e-mail: jcottobboni@gmail.com
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/jcottobboni/">LinkedIn</a>
 - 🌐 Personal WebSite <a href="https://joaocarlos.dev">joaocarlos.dev</a>
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeFalourd)
+- 
+
+
 <center>
   <table>
     <tr>
@@ -26,10 +28,4 @@ I'm a web developer specializing in Ruby on Rails. I make things from scratch, c
   </table>
 </center>
 
-<img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
-
-<!-- <p align="center">
-  <img width="36%" src="profile-summary-card-output/github/1-repos-per-language.svg" />
-  <img width="36%" src="profile-summary-card-output/github/2-most-commit-language.svg" />
-  <img width="24.3%" src="profile-summary-card-output/github/3-stats.svg" />
-</p> -->
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=jcottobboni)
