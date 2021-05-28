@@ -16,7 +16,6 @@ I'm a web developer specializing in Ruby on Rails. I make things from scratch, c
 - 📨 Send me an e-mail: jcottobboni@gmail.com
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/jcottobboni/">LinkedIn</a>
 - 🌐 Personal WebSite <a href="https://joaocarlos.dev">joaocarlos.dev</a>
-- 
 
 
 <center>
@@ -28,4 +27,26 @@ I'm a web developer specializing in Ruby on Rails. I make things from scratch, c
   </table>
 </center>
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=jcottobboni)
+
+<center>
+  <table>
+    <tr>
+        <td>![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=jcottobboni)/td>
+        <td>
+            ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+            ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+            ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+          
+            ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
+            ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+          
+            ![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=jetbrains)&nbsp;
+            ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+            ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
+            ![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)&nbsp;
+        </td>
+    </tr>   
+  </table>
+</center>
+
+
