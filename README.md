@@ -31,7 +31,7 @@ I'm a web developer specializing in Ruby on Rails. I make things from scratch, c
 <center>
   <table>
     <tr>
-        <td>![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=jcottobboni)/td>
+        <td>![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=jcottobboni)</td>
         <td>
             ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
             ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
