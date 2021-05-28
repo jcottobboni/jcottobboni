@@ -32,7 +32,7 @@ I'm a web developer specializing in Ruby on Rails. I make things from scratch, c
 
 ### Languages & Tools 🛠
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Python](https://img.shields.io/badge/-Rails-05122A?style=flat&logo=python)&nbsp;
 ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
 ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=white)&nbsp;
